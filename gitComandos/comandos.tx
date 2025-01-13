@@ -1,0 +1,4 @@
+git clone
+
+git checkout --.  //restablece la ultima fotografia tomada en la rama
+git add .  // agrega los archivos al stagin area 
